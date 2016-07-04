@@ -1,5 +1,6 @@
 {
-  "name": "color-thief",
+  "name": "color-thief-extended",
+  "version": "2.1",
   "homepage": "http://lokeshdhakar.com/projects/color-thief/",
   "authors": [
     "Lokesh Dhakar"
